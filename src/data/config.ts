@@ -11,7 +11,7 @@ const config = {
     },
   },
   meta: {
-    title: 'Mark Freeman - Senior React Developer',
+    title: '姚龙飞 - 初级前端开发工程师',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sodales ac dui at vestibulum. In condimentum metus id dui tincidunt, in blandit mi vehicula.',
     faviconPath: '/src/assets/my-image.jpeg',

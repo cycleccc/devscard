@@ -47,6 +47,18 @@ export const github = createLinkFactory({
   icon: 'fa6-brands:github',
 });
 
+export const juejin = createLinkFactory({
+  name: 'JueJin',
+  icon: 'fa6-brands:github',
+  // TODO: use fa6-brands:JueJin instead
+});
+
+export const zhihu = createLinkFactory({
+  name: 'zhihu',
+  icon: 'fa6-brands:github',
+  // TODO: use fa6-brands:JueJin instead
+});
+
 export const codepen = createLinkFactory({
   name: 'CodePen',
   icon: 'fa6-brands:codepen',
